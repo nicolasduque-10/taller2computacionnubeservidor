@@ -1,3 +1,5 @@
+#David Martinez, Miguel Castillo Y Nicolás Duque
+
 from socket import *
 
 servidorPuerto = 12000
